@@ -1,0 +1,80 @@
+html,body,section,div{
+ margin: 0px;
+ padding: 0px;
+
+}
+
+body{
+    background-image: url('/one-piece-merry-sunny-papel-de-parede-2048x1152_49.jpg');
+}
+
+main{
+margin-top: 100px;
+}
+
+#destino{
+    position: absolute;
+    background-image: url('/One-Piece-Wallpaper-9.jpg');
+    background-size:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: translate(75%, -100%);
+    width: 700px;
+    height: 550px;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 900;
+}
+
+.linha{
+    display: flex;
+    background-position: center;
+    margin: auto;
+    background-repeat: no-repeat;
+    width: 750px;
+}
+
+.parede{
+    background-color: #001233;   
+    width: 35px;
+    height: 35px;
+}
+
+.caminho{
+    background-color: #0466c8;
+    width: 35px;
+    height: 35px;
+}
+
+.buraco{
+    background-color: #0466c8;
+    background-size:30px;
+    width: 35px;
+    height: 35px;
+}
+
+.box{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background:#0466c8;
+    background-position: center;
+    background-size:120px;
+    align-items: center;
+    
+}
+
+#bola{
+    position:relative;
+    width: 30px;
+    height: 30px;
+    background-image: url('4fc0dd0139737e6910f5dff0bb5f4a2c388e1dc9_00.gif.crdownload');
+    background-position: center;
+    background-size:30px;
+    transform: scaleX(-1);
+
+}
+
