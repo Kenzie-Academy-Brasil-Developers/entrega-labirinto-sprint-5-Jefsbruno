@@ -5,7 +5,7 @@ html,body,section,div{
 }
 
 body{
-    background-image: url('/one-piece-merry-sunny-papel-de-parede-2048x1152_49.jpg');
+    background-image: url('one-piece-merry-sunny-papel-de-parede-2048x1152_49.jpg');
 }
 
 main{
@@ -14,7 +14,7 @@ margin-top: 100px;
 
 #destino{
     position: absolute;
-    background-image: url('/One-Piece-Wallpaper-9.jpg');
+    background-image: url('One-Piece-Wallpaper-9.jpg');
     background-size:500px;
     background-position: center;
     background-repeat: no-repeat;
